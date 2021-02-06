@@ -95,12 +95,17 @@ For example, they can accomplish, say,
 a thousand tasks in just 1 second.
 For high-powered servers, it's more than that.
 For advanced programmers, this is very critical:
-it can be used for multi-tasking, that 1 second
-delay can be used by another mini-program.
+it can be used for multitasking, say,
+that 1 second delay can be used by 
+to do other tasks within the main program.
 
 Now, talking about the initial code above,
 it will simply have blinking LEDs from
 right to left and the interval is 1 second.
+And since it is a repeat forever loop,
+it will simply continue doing the same 
+thing until you stop it.
+
 You can modify the code to blink at the same 
 time or another pattern with rhythm by changing
 the delay at different parts. As you can see,
