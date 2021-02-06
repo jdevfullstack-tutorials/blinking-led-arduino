@@ -80,8 +80,9 @@ or there is none `LOW` for a particular
 pin, like in our example,
 Arduino Digital Pin 13. For a basic LED,
 we all know that when there is sufficient
-voltage, it will light up and if there
-is too low or none at all, there will be none.
+voltage, it is turned on and if there
+is too low or none at all, it is 
+turned off.
 
 `delay` is the command for temporarily delaying
 a program, just like a pause. If prior to 
