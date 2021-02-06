@@ -79,7 +79,7 @@ pin, like in our example,
 Arduino Digital Pin 13. For a basic LED,
 we all know that when there is sufficient
 voltage, it will light up and if there
-is none, there will be none.
+is too low or none at all, there will be none.
 
 `delay` is the command for temporarily delaying
 a program, just like a pause. If prior to 
@@ -93,3 +93,10 @@ For high-powered servers, it's more than that.
 For advanced programmers, this is very critical:
 it can be used for multi-tasking, that 1 second
 delay can be used by another mini-program.
+
+## Related Project
+You may want additional information about the 
+Arduino UNO board, the breadboard and another 
+project, so check this out:
+
+<https://github.com/xdvrx1/single-display-arduino-project>
