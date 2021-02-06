@@ -90,7 +90,7 @@ this, an LED is turned on, it will pause for
 a certain amount of time with the initial 
 status of the LED. It's in terms of milliseconds,
 because for computers, they work in terms of
-milliseconds or nanoseconds. 
+milliseconds or even nanoseconds. 
 For example, they can accomplish, say,
 a thousand tasks in just 1 second.
 For high-powered servers, it's more than that.
