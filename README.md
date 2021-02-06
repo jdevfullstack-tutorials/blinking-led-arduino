@@ -4,7 +4,9 @@ Arduino Code programming.
 
 ## The Arduino Code
 Arduino is both software and hardware. Right there,
-you can control the design.
+you can control your design (hardware) through
+the code (software). So, it's one of the reason
+also that Arduino is used extensively in prototyping.
 
 There are two built-in functions in Arduino Code:
 `void setup` and `void loop`.
