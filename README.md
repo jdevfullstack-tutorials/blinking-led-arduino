@@ -96,7 +96,7 @@ a thousand tasks in just 1 second.
 For high-powered servers, it's more than that.
 For advanced programmers, this is very critical:
 it can be used for multitasking, say,
-that 1 second delay can be used by 
+that 1 second delay can be used
 to do other tasks within the main program.
 
 Now, talking about the initial code above,
