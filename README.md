@@ -25,7 +25,7 @@ and will not return any value. Other functions
 which are not void can return values.
 
 ## The Setup
-You need an 3 basic LEDs, 1 breadboard and
+You need 3 basic LEDs, 1 breadboard and
 the Arduino UNO board.
 
 Follow the wiring as indicated in the picture
@@ -81,14 +81,14 @@ we all know that when there is sufficient
 voltage, it will light up and if there
 is none, there will be none.
 
-`delay` is the command for temporarily delay
+`delay` is the command for temporarily delaying
 a program, just like a pause. If prior to 
-this, an LED is light up, it will pause for 
+this, an LED is turned on, it will pause for 
 a certain amount of time with the initial 
 status of the LED. It's in terms of milliseconds,
 because for computers, they work in terms of
 milli or nanoseconds. For example, they can 
-accomplish 1000 digital task in just 1 second.
+accomplish 1000 digital tasks in just 1 second.
 For high-powered servers, it's more than that.
 For advanced programmers, this is very critical:
 it can be used for multi-tasking, that 1 second
