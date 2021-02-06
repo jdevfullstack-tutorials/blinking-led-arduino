@@ -67,12 +67,12 @@ void loop()
 ```
 
 ### Code Explanation
-There are just 3 commands here:
+There are just 3 commands being used
+here:
 
 `pinMode` is the command you tell the Arduino
 board what is the mode of a particular pin.
-If ever you did not mention that, then the
-default is `input`.
+If not, then the default is `input`.
 
 `digitalWrite` is the command whether
 there will be supply of voltage `HIGH`
