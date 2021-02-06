@@ -87,3 +87,6 @@ because for computers, they work in terms of
 milli or nanoseconds. For example, they can 
 accomplish 1000 digital task in just 1 second.
 For high-powered servers, it's more than that.
+For advanced programmers, this is very critical:
+it can be used for multi-tasking, that 1 second
+delay can be used by another mini-program.
