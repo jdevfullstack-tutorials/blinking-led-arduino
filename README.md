@@ -30,6 +30,8 @@ the Arduino UNO board.
 Follow the wiring as indicated in the picture
 below:
 
+![design](res/src1.png)
+
 
 Then, go to `Code` section and copy the initial
 code below:
