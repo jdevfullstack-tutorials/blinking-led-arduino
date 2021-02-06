@@ -64,7 +64,26 @@ void loop()
 ### Code Explanation
 There are just 3 commands here:
 
-`pinMode` is where you tell the Arduino
+`pinMode` is the command you tell the Arduino
 board what is the mode of a particular pin.
 If ever you did not mention that, then the
-default is `iput.
+default is `input`.
+
+`digitalWrite` is the command whether
+there will be supply of voltage `HIGH`
+or there is none `LOW` for a particular
+pin, like in our example,  
+Arduino Digital Pin 13. For a basic LED,
+we all know that when there is sufficient
+voltage, it will light up and if there
+is none, there will be none.
+
+`delay` is the command for temporarily delay
+a program, just like a pause. If prior to 
+this, an LED is light up, it will pause for 
+a certain amount of time with the initial 
+status of the LED. It's in terms of milliseconds,
+because for computers, they work in terms of
+milli or nanoseconds. For example, they can 
+accomplish 1000 digital task in just 1 second.
+For high-powered servers, it's more than that.
