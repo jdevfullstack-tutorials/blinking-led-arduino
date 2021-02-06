@@ -72,7 +72,7 @@ default is `input`.
 `digitalWrite` is the command whether
 there will be supply of voltage `HIGH`
 or there is none `LOW` for a particular
-pin, like in our example,  
+pin, like in our example,
 Arduino Digital Pin 13. For a basic LED,
 we all know that when there is sufficient
 voltage, it will light up and if there
