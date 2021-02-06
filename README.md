@@ -15,8 +15,9 @@ output device. Other initial setup can be
 done here, like, the initial mode of an LED
 is turned on.
 
-`void loop` is where the execution of programs
-happen.
+`void loop` is where the execution of commands
+happens. Take note, `void loop` is a repeat
+forever loop.
 
 Take note of the word `void`. A `void` type 
 of function will simply execute all the commands
