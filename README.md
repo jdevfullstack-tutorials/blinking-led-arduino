@@ -5,7 +5,7 @@ Arduino Code programming.
 ## The Arduino Code
 Arduino is both software and hardware. Right there,
 you can control your design (hardware) through
-the code (software). So, it's one of the reason
+the code (software). So, it's one of the reasons
 also that Arduino is used extensively in prototyping.
 
 There are two built-in functions in Arduino Code:
@@ -91,7 +91,8 @@ a certain amount of time with the initial
 status of the LED. It's in terms of milliseconds,
 because for computers, they work in terms of
 milli or nanoseconds. For example, they can 
-accomplish 1000 digital tasks in just 1 second.
+accomplish, say,
+a thousand tasks in just 1 second.
 For high-powered servers, it's more than that.
 For advanced programmers, this is very critical:
 it can be used for multi-tasking, that 1 second
