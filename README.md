@@ -62,4 +62,9 @@ void loop()
 ```
 
 ### Code Explanation
+There are just 3 commands here:
 
+`pinMode` is where you tell the Arduino
+board what is the mode of a particular pin.
+If ever you did not mention that, then the
+default is `iput.
