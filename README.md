@@ -14,7 +14,7 @@ There are two built-in functions in Arduino Code:
 `void setup` is where you tell the computer whether
 an electronic component being programmed is an
 output device. Other initial setup can be
-done here, like, the initial mode of an LED
+done here, like the initial mode of an LED
 is turned on.
 
 `void loop` is where the execution of commands
