@@ -24,4 +24,19 @@ and will not return any value. Other functions
 which are not void can return values.
 
 ## The Setup
+You need an 3 basic LEDs, 1 breadboard and
+the Arduino UNO board.
+
+Follow the wiring as indicated in the picture
+below:
+
+
+Then, go to `Code` section and copy the initial
+code below:
+
+```
+
+```
+
+### Code Explanation
 
