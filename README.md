@@ -24,13 +24,13 @@ forever loop.
 Take note of the word `void`. A `void` type 
 of function will simply execute all the commands
 and will not return any value. Other functions
-which are not void can return values.
+which are not void do return values.
 
 ## The Setup
 You need 3 basic LEDs, 3 resistors, 1 breadboard and
 the Arduino UNO board.
 
-Follow the wiring as indicated in the picture
+Follow the setup as shown in the picture
 below:
 
 ![design](res/src1.png)
