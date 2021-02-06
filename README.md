@@ -97,6 +97,16 @@ For advanced programmers, this is very critical:
 it can be used for multi-tasking, that 1 second
 delay can be used by another mini-program.
 
+Now, talking about the initial code above,
+it will simply have blinking LEDs from
+right to left and the interval is 1 second.
+You can modify the code to blink at the same 
+time or another pattern with rhythm by changing
+the delay at different parts. As you can see,
+you have the full control through your code, as
+long as you know how to modify it without
+breaking it.
+
 ## Related Project
 You may want additional information about the 
 Arduino UNO board, the breadboard and another 
