@@ -1,4 +1,7 @@
 # Blinking LED Arduino
+
+*`updated 21 April 2022`*
+
 This is a blinking LED activity as the intro for 
 Arduino Code programming.
 
